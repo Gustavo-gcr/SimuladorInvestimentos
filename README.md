@@ -28,8 +28,8 @@ Inclui também **cálculo de IR regressivo automático (22,5%, 20%, 17,5%, 15%) 
 
 ---
 ## 🛠️ Como rodar na WEB
-  Acessar o link abaixo
-  https://simuladorinvestimentos.streamlit.app/
+  **Acessar o link abaixo**
+ - https://simuladorinvestimentos.streamlit.app/
 
 ## 🛠️ Como rodar localmente
 
