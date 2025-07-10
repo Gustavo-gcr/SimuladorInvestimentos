@@ -36,4 +36,4 @@ Inclui também **cálculo de IR regressivo automático (22,5%, 20%, 17,5%, 15%) 
 1️⃣ Clone o repositório:
 ```bash
 git clone https://github.com/seuusuario/simulador-investimentos.git
-cd simulador-investimentos
+streamlit run app.py
